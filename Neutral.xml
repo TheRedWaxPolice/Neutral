@@ -26,7 +26,7 @@
         <wcol_regular>
           <ThemeWidgetColors
             outline="#202020"
-            inner="#5e5e5eff"
+            inner="#989898ff"
             inner_sel="#878787ff"
             item="#000000ff"
             text="#000000"
@@ -265,10 +265,10 @@
         </wcol_menu_item>
         <wcol_scroll>
           <ThemeWidgetColors
-            outline="#202020"
-            inner="#5b5b5bff"
+            outline="#5b5b5b"
+            inner="#5b5b5bcc"
             inner_sel="#878787ff"
-            item="#878787ff"
+            item="#a3a3a3ff"
             text="#000000"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -318,6 +318,8 @@
             inner_driven_sel="#8600b3"
             inner_overridden="#3e7373"
             inner_overridden_sel="#275959"
+            inner_changed="#cc7529"
+            inner_changed_sel="#e6852d"
             blend="0.6"
             >
           </ThemeWidgetStateColors>
