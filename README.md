@@ -18,6 +18,6 @@ To make it your default theme, click Save User Preferences
 
 **Screenshots:**
 
-![Awesome](https://devtalk.blender.org/uploads/default/original/2X/6/6acb82816d7d312b5e3daf338768efa78ed8c905.jpeg)
+![Awesome](https://devtalk.blender.org/uploads/default/original/2X/a/ae4e97aec5e991e4ccb3814a07e84608d2aa99b7.jpeg)
 
-![Awesome](https://devtalk.blender.org/uploads/default/original/2X/2/28ee387a7f84faed70a7c3b89b109b5c19de9c5d.jpeg)
+![Awesome](https://devtalk.blender.org/uploads/default/original/2X/c/c768a8a61934a5c807664fb0a6c37b5c8c366fcb.jpeg)
