@@ -975,9 +975,9 @@
         match="#337f33"
         selected_highlight="#f68938"
         selected_object="#e96a00"
-        active_object="#ffaf29"
+        active_object="#ffffff"
         edited_object="#00806266"
-        row_alternate="#ffffff07"
+        row_alternate="#ffffff0f"
         >
         <space>
           <ThemeSpaceGeneric
