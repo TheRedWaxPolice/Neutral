@@ -455,7 +455,7 @@
       <ThemeGraphEditor
         grid="#6e6e6e"
         frame_current="#55df8f"
-        scrubbing_background="#5b5b5be6"
+        time_scrub_background="#5b5b5be6"
         window_sliders="#969696"
         channels_region="#878787"
         dopesheet_channel="#878787"
@@ -580,7 +580,7 @@
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         frame_current="#55df8f"
-        scrubbing_background="#5b5b5be6"
+        time_scrub_background="#5b5b5be6"
         >
         <space>
           <ThemeSpaceGeneric
@@ -627,7 +627,7 @@
       <ThemeDopeSheet
         grid="#6e6e6e"
         frame_current="#55df8f"
-        scrubbing_background="#5b5b5be6"
+        time_scrub_background="#5b5b5be6"
         value_sliders="#000000"
         view_sliders="#929292"
         dopesheet_channel="#87878724"
@@ -698,9 +698,6 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        gp_vertex="#000000"
-        gp_vertex_select="#ff8500"
-        gp_vertex_size="3"
         vertex="#000000"
         vertex_select="#ffce99"
         vertex_size="3"
@@ -774,9 +771,6 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor
-        gp_vertex="#000000"
-        gp_vertex_select="#ff8500"
-        gp_vertex_size="3"
         grid="#6e6e6e"
         window_sliders="#a0a0a0"
         movie_strip="#516987"
@@ -789,7 +783,7 @@
         meta_strip="#6d9183"
         text_strip="#a29700"
         frame_current="#55df8f"
-        scrubbing_background="#5b5b5be6"
+        time_scrub_background="#5b5b5be6"
         keyframe="#ff8500"
         draw_action="#607f9e"
         preview_back="#989898"
@@ -910,9 +904,6 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        gp_vertex="#000000"
-        gp_vertex_select="#ff8500"
-        gp_vertex_size="3"
         node_selected="#fff4f8"
         node_active="#ffffff"
         wire="#292929"
@@ -983,6 +974,10 @@
       <ThemeOutliner
         match="#337f33"
         selected_highlight="#f68938"
+        selected_object="#e96a00"
+        active_object="#ffaf29"
+        edited_object="#00806266"
+        row_alternate="#ffffff07"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1138,9 +1133,6 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        gp_vertex="#000000"
-        gp_vertex_select="#000000"
-        gp_vertex_size="1"
         marker_outline="#000000"
         marker="#7f7f00"
         active_marker="#ffffff"
@@ -1150,7 +1142,7 @@
         path_before="#ff0000"
         path_after="#0000ff"
         frame_current="#55df8f"
-        scrubbing_background="#5b5b5be6"
+        time_scrub_background="#5b5b5be6"
         strips="#0c0a0a"
         strips_selected="#ff8c00"
         metadatabg="#5b5b5b"
