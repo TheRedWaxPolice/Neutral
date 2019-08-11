@@ -1019,7 +1019,7 @@
         info_error_text="#ffffff"
         info_warning="#5b5b5b"
         info_warning_text="#ffe100"
-        info_info="#3b3b3b"
+        info_info="#1d4383"
         info_info_text="#25ff00"
         info_debug="#c4c4c4"
         info_debug_text="#000000"
